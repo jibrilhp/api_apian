@@ -1,5 +1,5 @@
 <?php
-
+//kips,arbs,jibs
 class ig_bemfikti
 {
 
